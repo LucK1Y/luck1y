@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on my **Master's thesis** in Computer Science at the University of Zurich (UZH).
+- 🌱 I’m currently learning how to bridge Natural Language Processing (NLP) with Software Engineering.
+- 💬 Ask me about anything related to NLP, software engineering, or my thesis work.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lucas-krauter-69460b1b5/)
